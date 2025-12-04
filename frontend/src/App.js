@@ -7,7 +7,7 @@ import {
 
 // --- CONFIGURATION ---
 const ACCESS_CODE = "1234"; 
-const API_BASE_URL = 'http://localhost:5000'; 
+const API_BASE_URL = 'https://streamsaver-backend.onrender.com'; // Your actual Render URL
 
 const SocialMediaDownloader = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
