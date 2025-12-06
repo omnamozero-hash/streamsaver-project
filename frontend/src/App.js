@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 
 // --- CONFIGURATION ---
-const ACCESS_CODE = "1234"; 
+const ACCESS_CODE = "1512"; 
 const API_BASE_URL = 'https://streamsaver-backend.onrender.com'; // Your actual Render URL
 
 const SocialMediaDownloader = () => {
